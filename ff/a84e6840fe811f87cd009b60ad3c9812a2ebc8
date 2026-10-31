@@ -1,0 +1,56 @@
+README.ja.md
+  s_834e1f57ab10e6::t_da3109afad5a4e 6
+README.vi.md
+  s_834e1f57ab10e6::t_da3109afad5a4e 6
+README.it.md
+  s_834e1f57ab10e6::t_da3109afad5a4e 7
+README.uk.md
+  s_834e1f57ab10e6::t_da3109afad5a4e 6
+README.zh-CN.md
+  s_834e1f57ab10e6::t_da3109afad5a4e 6
+README.zh-TW.md
+  s_834e1f57ab10e6::t_da3109afad5a4e 6
+tests/test_readme_quick_start_clone.py
+  s_834e1f57ab10e6::t_da3109afad5a4e 113
+  s_834e1f57ab10e6::t_66fd47cd8d9060 111
+docs/workflows/press.md
+  s_834e1f57ab10e6::t_da3109afad5a4e 11-13
+  s_834e1f57ab10e6::t_3ad8869df2a022 15
+README.md
+  s_834e1f57ab10e6::t_da3109afad5a4e 10
+README.de.md
+  s_834e1f57ab10e6::t_da3109afad5a4e 6
+tests/test_readme_theme_count.py
+  s_834e1f57ab10e6::t_da3109afad5a4e 175,177-178
+  s_834e1f57ab10e6::t_4ed8efd7737513 172
+README.tr.md
+  s_834e1f57ab10e6::t_17ad5c57d1f5a4 1-324,327-528
+  s_834e1f57ab10e6::t_080d75022b5708 325-326
+tools/gen_tables.py
+  s_834e1f57ab10e6::t_da3109afad5a4e 272-273
+  s_834e1f57ab10e6::t_7243312fdcb013 29-30
+README.nl.md
+  s_834e1f57ab10e6::t_da3109afad5a4e 14
+docs/workflows/theme.md
+  s_834e1f57ab10e6::t_da3109afad5a4e 16-17
+docs/workflows/translation.md
+  s_834e1f57ab10e6::t_237132982d18dd 41-43
+docs/workflows/tv-list.md
+  s_834e1f57ab10e6::t_422a9eaa83167b 32,36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "ffa84e6840fe811f87cd009b60ad3c9812a2ebc8",
+  "prompts": {},
+  "sessions": {
+    "s_834e1f57ab10e6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6d459359-0d31-453f-bb2f-308fb1bc5123",
+        "model": "unknown"
+      },
+      "human_author": "Bilal Vural <bilal.vural@spanflug.de>"
+    }
+  }
+}
