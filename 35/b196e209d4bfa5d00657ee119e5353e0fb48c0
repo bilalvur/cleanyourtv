@@ -1,0 +1,27 @@
+docs/workflows/press.md
+  s_834e1f57ab10e6::t_89e5bd5f69430a 13
+docs/workflows/tv-list.md
+  s_834e1f57ab10e6::t_c1892728c50d2e 32-34
+tests/test_press_counts.py
+  s_834e1f57ab10e6::t_8348d72671c595 6-8,60-62,357-358
+tests/test_readme_theme_count.py
+  s_834e1f57ab10e6::t_7f963b6601ec5e 60-62
+tools/gen_tables.py
+  s_834e1f57ab10e6::t_7d4d3c92a37741 30-31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "35b196e209d4bfa5d00657ee119e5353e0fb48c0",
+  "prompts": {},
+  "sessions": {
+    "s_834e1f57ab10e6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6d459359-0d31-453f-bb2f-308fb1bc5123",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Bilal Vural <bilal.vural@spanflug.de>"
+    }
+  }
+}
