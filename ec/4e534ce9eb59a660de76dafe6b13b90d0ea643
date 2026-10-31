@@ -1,0 +1,21 @@
+tests/test_readme_quick_start_clone.py
+  s_834e1f57ab10e6::t_7129161cf9f0cf 111
+tools/gen_tables.py
+  s_834e1f57ab10e6::t_5adb761f8872ad 31-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "ec4e534ce9eb59a660de76dafe6b13b90d0ea643",
+  "prompts": {},
+  "sessions": {
+    "s_834e1f57ab10e6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6d459359-0d31-453f-bb2f-308fb1bc5123",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Bilal Vural <bilal.vural@spanflug.de>"
+    }
+  }
+}
